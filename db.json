@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Go get Groceries",
+      "description": "I need eggs, potatoes, cheese, and of course sriracha"
+    },
+    {
+      "id": 2,
+      "title": "Walk dog",
+      "description": "walk the friggin dog so they can go to the barthroom"
+    },
+    {
+      "id": 3,
+      "title": "Code",
+      "description": "Make a video about thin vertical slices and project workflow"
+    },
+    {
+      "id": 4,
+      "title": "Write Some Cirriculum",
+      "description": "Write some cirriculum about making a video about thin vertical slices and project workflow"
+    }
+  ]
+}
