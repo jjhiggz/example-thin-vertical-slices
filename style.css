@@ -1,0 +1,13 @@
+root,
+body,
+html {
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  width: 100%;
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
